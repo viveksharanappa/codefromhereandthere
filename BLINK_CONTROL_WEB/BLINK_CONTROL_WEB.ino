@@ -2,8 +2,8 @@
 #include <ESP8266mDNS.h>
 
 //WiFi
-const char wifissid[] = "ViVa";
-const char wifipsk[] = "Zenswiftr1994";
+const char wifissid[] = "*********";
+const char wifipsk[] = "*********";
 
 //LED Definitions
 const int LED_PIN = 16; //The one onboard
